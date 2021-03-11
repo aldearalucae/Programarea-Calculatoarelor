@@ -3,7 +3,7 @@
 
 I-am indeplinit dorinta lui Gigel de a implementa jocul Tetris folosind doar cunostintele dobandite in primele laboratoare de programare, jocul bazandu-se in principal pe operatii pe biti.
 
-#### Harta
+### Harta
 La fiecare moment am salvate doua harti: una care reprezinta ultima actualizare (cu ultima piesa), iar a doua care contine doar piesa curenta. La sfarsitul mutarilor piesei curente (sau mai devreme daca piesa nu incape), reuniunea celor doua harti ("sau" logic intre cele doua valori pe 64 de biti) vor reprezenta harta actualizata pentru urmatoarea piesa.
 
 
